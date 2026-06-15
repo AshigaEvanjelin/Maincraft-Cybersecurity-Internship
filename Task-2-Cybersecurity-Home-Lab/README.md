@@ -29,6 +29,16 @@ Design and configure a secure cybersecurity home lab environment for practicing 
 - Intercepted web requests using Burp Suite
 - Captured and analyzed traffic using Wireshark
 
+## Screenshots
+
+Screenshots are available in the Screenshots folder and demonstrate:
+
+- Kali Linux configuration
+- OWASP Juice Shop deployment
+- Nmap service discovery
+- Burp Suite request interception
+- Wireshark packet capture
+
 ## Outcome
 
 Successfully established a controlled cybersecurity lab environment for learning vulnerability assessment, web application security testing, and network traffic analysis.
