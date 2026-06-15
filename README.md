@@ -9,8 +9,9 @@ This repository contains the tasks and projects completed during my Cybersecurit
 ### Task 1 - Cybersecurity Threat Intelligence Report
 Completed ✅
 
-### Task 2
-Coming Soon
+
+### Task 2 - Cybersecurity Home Lab Setup
+Completed ✅
 
 
 
