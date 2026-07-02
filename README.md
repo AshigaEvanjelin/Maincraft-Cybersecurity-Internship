@@ -13,6 +13,9 @@ Completed ✅
 ### Task 2 - Cybersecurity Home Lab Setup
 Completed ✅
 
+## Certifications
+After completing the assigned tasks I have got the Internship Certificate and also the Letter of Accomodation.
+
 
 
 ## Author
